@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "csv-parse": "^4.8.8",
-    "mixme": "^0.3.5"
+    "mixme": "^0.5.1"
   },
   "devDependencies": {
     "jsdoc": "^3.6.4",
